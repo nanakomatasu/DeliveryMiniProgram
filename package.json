@@ -1,0 +1,22 @@
+{
+  "name": "schoolu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.code.tencent.com/hntrwl/front/schoolU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "tki-qrcode": "^0.1.6",
+    "uview-ui": "^2.0.31",
+    "vue-jsonp": "^2.0.0"
+  }
+}
